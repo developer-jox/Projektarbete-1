@@ -1,0 +1,79 @@
+HTML projektarbete 1
+
+ [X]   <head>
+ [X]   <meta>
+ []   <link>
+ []   <base>
+ [X]   <body>
+ [X]   <br>
+ []   <hx>
+ [X]   <p>
+ [X]   <a>
+ [X]   <hr>
+ [X]   infoga specialtecken
+ 
+ [X]   <font>
+ []   <div>
+ []   <span>
+ [X]   <fieldset>
+ [X]   <legend>
+ [X]   <b>
+ [X]   <i>
+ [X]   <u>
+ []   <small>
+ [X]   <strong>
+ [X]   <sub>
+ [X]   <sup>
+ []   <pre>
+ []   <xmp>
+ []   <listing>
+ []   <ins>
+ []   <del>
+ []   <code>
+ []   <acronym>
+ [X]   <cite>
+ []   <var>
+ []   <kbd>
+ []   <samp>
+ []   <tt>
+ []   <nobr>
+ []   <wbr>
+ [X]   <marquee>
+
+ [X]   <ul>
+ []   <ol>
+ []   <dl>
+ 
+ [X]   <img>
+ [X]   <sound>
+ [-]   <bgsound>
+ []   <embed>
+ []   <noembed>
+ []   <applet>
+ 
+ [X]   <table>
+ [X]   <tr>
+ [X]   <td>
+ []   <th>
+ []   <caption>
+ []   <thead>
+ []   <tbody>
+ []   <tfoot>
+ 
+ [X]   <form>
+ [X]   <input>
+ []   <textarea>
+ [X]   <select>
+ [X]   <option>
+ []   <optgroup>
+ [X]   <label>
+ [X]   <button>
+ 
+ [-]   <frameset>
+ [-]   <frame>
+ [-]   <noframes>
+ [X]   <iframe>
+
+X = Är med
+- = behövs ej
+? = Osäker
