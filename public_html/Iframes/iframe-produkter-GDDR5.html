@@ -7,20 +7,37 @@
         <meta name="description" content="iframe DDR3">
     </head>
     <body>
-        <img vspace="10" hspace="10" align="left" width="200" height="200" src="../Resources/RAM/DDR3.png">
+        <img vspace="10" hspace="10" align="left" width="30%" height="30%" src="../Resources/RAM/Hynix-GDDR5.png">
         <h3>GDDR5</h3>
         <p align="left" title="GDDR5">
-            <font face="Calibri"><strong>The primary benefit of DDR3 SDRAM</strong> over its immediate predecessor, DDR2 SDRAM, 
-            is its ability to transfer data at twice the rate (eight times the speed of its
-            internal memory arrays), enabling higher bandwidth or peak data rates. With two 
-            transfers per cycle of a quadrupled clock signal, a 64-bit wide DDR3 module may 
-            achieve a transfer rate of up to 64 times the memory clock speed megahertz (MHz) 
-            in megabytes per second (MB/s). With data being transferred 64 bits at a time per 
-            memory module, DDR3 SDRAM gives a transfer rate of (memory clock rate) × 4 (for bus 
-            clock multiplier) × 2 (for data rate) × 64 (number of bits transferred) / 8 (number 
-            of bits/byte). Thus with a memory clock frequency of 100 MHz, DDR3 SDRAM gives a maximum 
-            transfer rate of <cite>6400 MB/s.</cite> In addition, the DDR3 standard permits DRAM chip capacities
-            of up to 8 gigabits.
+            <font face="Calibri">GDDR5, an abbreviation for double data rate type
+            five synchronous graphics random access memory, is a modern type of 
+            synchronous graphics random access memory (SGRAM) with a high bandwidth 
+            ("double data rate") interface designed for use in graphics cards, game 
+            consoles, and high-performance computation. Like its predecessor, GDDR4,
+            GDDR5 is based on DDR3 SDRAM memory which has double the data lines compared 
+            to DDR2 SDRAM, but GDDR5 also has 8-bit wide prefetch buffers similar to GDDR4.
+            GDDR5 SGRAM conforms to the standards which were set out in the GDDR5 specification
+            by the JEDEC. SGRAM is single-ported. However, it can open two memory pages
+            at once, which simulates the dual-port nature of other VRAM technologies. 
+            It uses an 8n-prefetch architecture and DDR interface to achieve high performance
+            operation and can be configured to operate in ×32 mode or ×16 (clamshell) 
+            mode which is detected during device initialization. The GDDR5 interface 
+            transfers two 32-bit wide data words per write clock (WCK) cycle to/from 
+            the I/O pins. 
+            <br><br>Corresponding to the 8n-prefetch, a single write or read access
+            consists of a 256-bit wide two CK clock cycle data transfer at the internal 
+            memory core and eight corresponding 32-bit wide one-half WCK clock cycle data 
+            transfers at the I/O pins.GDDR5 operates with two different clock types. 
+            A differential command clock (CK) as a reference for address and command 
+            inputs, and a forwarded differential write clock (WCK) as a reference for 
+            data reads and writes, that runs at twice the CK frequency. Being more precise,
+            the GDDR5 SGRAM uses a total of three clocks: two write clocks associated with
+            two bytes (WCK01 and WCK23) and a single command clock (CK). Taking a GDDR5 
+            with 5 Gbit/s data rate per pin as an example, the CK clock runs with 1.25 
+            GHz and both WCK clocks at 2.5 GHz. The CK and WCKs are phase aligned during
+            the initialization and training sequence. This alignment allows read and write
+            access with minimum latency.
             </font>
         </p>
         <hr noshade>
