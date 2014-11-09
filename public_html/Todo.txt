@@ -30,7 +30,7 @@ HTML projektarbete 1
  [O]   <ins>
  [O]   <del>
  [O]   <code>
- [O]   <acronym>
+ [X]   <acronym> (använde <abbr> istället)
  [X]   <cite>
  [O]   <var>
  [O]   <kbd>
