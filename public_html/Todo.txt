@@ -13,7 +13,7 @@ HTML projektarbete 1
  [X]   infoga specialtecken
  
  [X]   <font>
- []   <div>
+ [X]   <div>
  []   <span>
  [X]   <fieldset>
  [X]   <legend>
