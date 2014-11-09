@@ -2,11 +2,11 @@ HTML projektarbete 1
 
  [X]   <head>
  [X]   <meta>
- []   <link>
- []   <base>
+ [O]   <link>
+ [O]   <base>
  [X]   <body>
  [X]   <br>
- []   <hx>
+ [O]   <hx>
  [X]   <p>
  [X]   <a>
  [X]   <hr>
@@ -14,58 +14,58 @@ HTML projektarbete 1
  
  [X]   <font>
  [X]   <div>
- []   <span>
+ [O]   <span>
  [X]   <fieldset>
  [X]   <legend>
  [X]   <b>
  [X]   <i>
- [X]   <u>
- []   <small>
+ [O]   <u>
+ [O]   <small>
  [X]   <strong>
  [X]   <sub>
  [X]   <sup>
- []   <pre>
- []   <xmp>
- []   <listing>
- []   <ins>
- []   <del>
- []   <code>
- []   <acronym>
+ [O]   <pre>
+ [O]   <xmp>
+ [O]   <listing>
+ [O]   <ins>
+ [O]   <del>
+ [O]   <code>
+ [O]   <acronym>
  [X]   <cite>
- []   <var>
- []   <kbd>
- []   <samp>
- []   <tt>
- []   <nobr>
- []   <wbr>
+ [O]   <var>
+ [O]   <kbd>
+ [O]   <samp>
+ [O]   <tt>
+ [O]   <nobr>
+ [O]   <wbr>
  [X]   <marquee>
 
  [X]   <ul>
- []   <ol>
- []   <dl>
+ [O]   <ol>
+ [O]   <dl>
  
  [X]   <img>
- [X]   <sound>
+ [O]   <sound>
  [-]   <bgsound>
- []   <embed>
- []   <noembed>
- []   <applet>
+ [O]   <embed>
+ [O]   <noembed>
+ [O]   <applet>
  
  [X]   <table>
  [X]   <tr>
  [X]   <td>
- []   <th>
- []   <caption>
- []   <thead>
- []   <tbody>
- []   <tfoot>
+ [O]   <th>
+ [O]   <caption>
+ [O]   <thead>
+ [O]   <tbody>
+ [O]   <tfoot>
  
  [X]   <form>
  [X]   <input>
- []   <textarea>
+ [X]   <textarea>
  [X]   <select>
  [X]   <option>
- []   <optgroup>
+ [O]   <optgroup>
  [X]   <label>
  [X]   <button>
  
@@ -75,5 +75,6 @@ HTML projektarbete 1
  [X]   <iframe>
 
 X = Är med
+O = är inte med
 - = behövs ej
 ? = Osäker
