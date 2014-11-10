@@ -14,7 +14,7 @@ HTML projektarbete 1
  
  [X]   <font>
  [X]   <div>
- [O]   <span>
+ [X]   <span>
  [X]   <fieldset>
  [X]   <legend>
  [X]   <b>
@@ -42,10 +42,10 @@ HTML projektarbete 1
 
  [X]   <ul>
  [O]   <ol>
- [O]   <dl>
+ [X]   <dl>
  
  [X]   <img>
- [O]   <sound>
+ [X]   <sound> (utbytt mot audio)
  [-]   <bgsound>
  [O]   <embed>
  [O]   <noembed>
