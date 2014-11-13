@@ -1,0 +1,80 @@
+HTML projektarbete 1
+
+ [X]   <head>
+ [X]   <meta>
+ [O]   <link>
+ [O]   <base>
+ [X]   <body>
+ [X]   <br>
+ [O]   <hx>
+ [X]   <p>
+ [X]   <a>
+ [X]   <hr>
+ [X]   infoga specialtecken
+ 
+ [X]   <font>
+ [X]   <div>
+ [X]   <span>
+ [X]   <fieldset>
+ [X]   <legend>
+ [X]   <b>
+ [X]   <i>
+ [O]   <u>
+ [O]   <small>
+ [X]   <strong>
+ [X]   <sub>
+ [X]   <sup>
+ [O]   <pre>
+ [O]   <xmp>
+ [O]   <listing>
+ [O]   <ins>
+ [O]   <del>
+ [O]   <code>
+ [X]   <acronym> (använde <abbr> istället)
+ [X]   <cite>
+ [O]   <var>
+ [O]   <kbd>
+ [O]   <samp>
+ [O]   <tt>
+ [O]   <nobr>
+ [O]   <wbr>
+ [X]   <marquee>
+
+ [X]   <ul>
+ [O]   <ol>
+ [X]   <dl>
+ 
+ [X]   <img>
+ [X]   <sound> (utbytt mot audio)
+ [-]   <bgsound>
+ [O]   <embed>
+ [O]   <noembed>
+ [O]   <applet>
+ 
+ [X]   <table>
+ [X]   <tr>
+ [X]   <td>
+ [O]   <th>
+ [O]   <caption>
+ [O]   <thead>
+ [O]   <tbody>
+ [O]   <tfoot>
+ 
+ [X]   <form>
+ [X]   <input>
+ [X]   <textarea>
+ [X]   <select>
+ [X]   <option>
+ [O]   <optgroup>
+ [X]   <label>
+ [X]   <button>
+ 
+ [-]   <frameset>
+ [-]   <frame>
+ [-]   <noframes>
+ [X]   <iframe>
+
+X = Är med
+O = är inte med
+- = behövs ej
+? = Osäker
